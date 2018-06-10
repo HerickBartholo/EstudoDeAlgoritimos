@@ -26,4 +26,7 @@ var_lista_variaveis += [123]
 for valor in var_lista_variaveis:
     print(type(valor))
     
+def escreverMeuNome (var_nome):
+    print(var_nome)
     
+escreverMeuNome('i don\'t know')
